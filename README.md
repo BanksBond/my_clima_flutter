@@ -1,16 +1,35 @@
-# my_clima_flutter
+![Banner](https://media-exp1.licdn.com/dms/image/C4D16AQGgtoysl9LJlQ/profile-displaybackgroundimage-shrink_350_1400/0/1651058496749?e=1674691200&v=beta&t=57iiH-q-Wtt5ZtH-TZ9-uTfQ0SddTqqhogLdiNjMIhI)
 
-A new Flutter project.
+# Clima ☁
 
-## Getting Started
+## General Info
 
-This project is a starting point for a Flutter application.
+It is a cross-platform application made with Flutter which will run on both iOS and Android devices. 
+The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What I've created
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A weather app inspired by the beautiful designs made by Olia Gozha. By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+
+![Finished App]()
+
+## What I learned
+
+- How to use Dart to perform asynchronous tasks.
+- Understand async and await.
+- Learn about Futures and how to work with them.
+- How to network with the Dart http package.
+- What APIs are and how to use them to get data from the internet.
+- What JSONs are and how to parse them using the Dart convert package.
+- How to pass data forwards and backwards between screens using the Navigator.
+- How to handle exceptions in Dart using try/catch/throw.
+- Learn about the lifecycle of Stateful Widgets and how to override them.
+- How to use the Geolocator package to get live location data for both iOS and Android.
+- How to use the TextField Widget to take user input.
+
+## Technologies Used
+The project is created with:
+  * Android Studio (Dolphin 2021)
+  * Flutter 3.0.5
+  * Dart 2.17.6
