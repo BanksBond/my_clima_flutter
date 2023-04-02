@@ -1,4 +1,4 @@
-![Banner](https://media-exp1.licdn.com/dms/image/C4D16AQGgtoysl9LJlQ/profile-displaybackgroundimage-shrink_350_1400/0/1651058496749?e=1674691200&v=beta&t=57iiH-q-Wtt5ZtH-TZ9-uTfQ0SddTqqhogLdiNjMIhI)
+
 
 # Clima ☁
 
@@ -12,7 +12,7 @@ The objective of this tutorial is to learn about asynchronous programming in Dar
 
 A weather app inspired by the beautiful designs made by Olia Gozha. By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-![Finished App]()
+![Finished App](https://github.com/BanksBond/Images/blob/main/clima-demo.gif)
 
 ## What I learned
 
